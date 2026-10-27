@@ -22,6 +22,9 @@ Trabalho com tecnologia há mais de 15 anos. Comecei em suporte técnico e infra
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly%20%2F%20Dash-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20%2F%20GitHub-181717?style=flat&logo=github&logoColor=white)
 
 **Técnicas:** Power Query · DAX · modelagem de dados · ETL · limpeza e padronização de dados · KPIs · estatística aplicada · métricas de Meta Ads
