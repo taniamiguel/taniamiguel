@@ -31,6 +31,11 @@ Trabalho com tecnologia há mais de 15 anos. Comecei em suporte técnico e infra
 
 ## 📂 Projetos em destaque
 
+### ⭐ [Pós-Consulta: automação de avaliações no Google](https://github.com/taniamiguel/pos-consulta-avaliacoes-google) *(projeto real em produção)*
+Sistema que criei e uso na clínica onde trabalho para pedir avaliações no Google após cada atendimento. Ele extrai a agenda, padroniza os telefones, remove quem já avaliou e prepara as mensagens de WhatsApp com o link.
+- **Resultado:** as avaliações no Google subiram de **110 para 204 (+85%) em 1 mês**.
+- **Ferramentas:** Python, Node.js, Playwright, Google Sheets e Docker
+
 ### 📊 [Dashboard de Performance — Facebook Ads](https://github.com/taniamiguel/marketing-analytics-dashboard)
 Dashboard interativo que compara campanhas por gasto, CTR e CPC.
 - **Insights:** a campanha Lookalike teve CTR cerca de 30% maior e CPC cerca de 16% menor. Também apontei uma possível falha no rastreamento de conversões.
@@ -47,10 +52,6 @@ Coleta automática de dados de um sistema web, com exportação para Excel.
 ### 🧹 [Limpeza de contatos para Ads](https://github.com/taniamiguel/limpeza-contatos-facebook-ads)
 Padronização de contatos exportados do Google para criar públicos no Facebook Ads.
 - **Ferramentas:** Python e Pandas
-
-### 💬 Automação de pós-consulta — clínica de podologia *(projeto real)*
-Organização dos contatos dos pacientes em Google Sheets, com tratamento de dados e mensagens automáticas de pós-consulta pelo WhatsApp.
-- **Ferramentas:** Python, Google Sheets e integração com WhatsApp
 
 ---
 
