@@ -1,6 +1,6 @@
 # Olá, eu sou a Tania Miguel 👋
 
-### Analista de Dados Junior | SQL · Power BI · Python · ETL
+### Analista de Dados Júnior | SQL · Power BI · Python · ETL
 
 Tenho 11 anos de experiência em suporte técnico a sistemas corporativos e bancos MySQL. Desde 2020, atuo também com gestão financeira, administrativa e marketing de pequenos negócios, experiência que me aproximou da análise de indicadores e da tomada de decisões baseada em dados.
 
