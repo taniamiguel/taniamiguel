@@ -1,10 +1,12 @@
 # Olá, eu sou a Tania Miguel 👋
 
-### Analista de Dados | SQL · Power BI · Python · ETL
+### Analista de Dados Jr | SQL · Power BI · Python · ETL
 
-Trabalhei 11 anos como Analista de Suporte Técnico na Saint-Gobain, incluindo suporte a bancos MySQL. Desde 2020 cuido das finanças e do marketing de pequenos negócios, e foi nesse trabalho que comecei a usar dados para decidir. Hoje transformo planilhas, extratos e relatórios de campanha em **indicadores, dashboards e automações**.
+Tenho 11 anos de experiência em suporte técnico a sistemas corporativos e bancos MySQL. Desde 2020, atuo também com gestão financeira, administrativa e marketing de pequenos negócios, experiência que me aproximou da análise de indicadores e da tomada de decisões baseada em dados.
 
-Gosto de entender o problema antes de montar o gráfico: de onde vem o dado, se ele está certo e que decisão ele vai apoiar.
+Hoje desenvolvo projetos de análise de dados, dashboards e automação de processos. Trabalho com SQL, Python, Power BI e ferramentas de tratamento de dados, buscando garantir a qualidade das informações e transformar dados em resultados que façam sentido para o negócio.
+
+Meu foco é entender o problema, validar os dados e construir análises que ajudem a responder perguntas concretas.
 
 📍 Cambé, Paraná · 💼 [LinkedIn](https://www.linkedin.com/in/taniamiguel)
 
