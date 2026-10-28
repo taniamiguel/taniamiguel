@@ -96,7 +96,12 @@ Análise de faturamento por período, bairro e perfil de cliente, com filtros cr
 
 ---
 
-## 🎯 Foco atual
-Busco uma oportunidade como **Analista de Dados Júnior ou Analista de BI**, de preferência em marketing, vendas ou finanças, áreas que já conheço por dentro.
+🎯 Objetivo profissional
 
-📫 Vamos conversar pelo [LinkedIn](https://www.linkedin.com/in/taniamiguel).
+Busco uma oportunidade como Analista de Dados Júnior ou Analista de BI, especialmente nas áreas de marketing, vendas, finanças ou operações.
+
+Quero contribuir com minha experiência em processos de negócio e minhas habilidades em análise, tratamento e visualização de dados para ajudar equipes a tomar decisões mais bem fundamentadas.
+
+📫 Vamos conversar?
+
+LinkedIn · GitHub
